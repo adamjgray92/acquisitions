@@ -1,0 +1,40 @@
+{"level":"info","message":"Hello world","service":"acquisitions-api"}
+{"level":"info","message":"Hello world","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:22:59:41 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:22:59:46 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:22:59:51 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:22:59:56 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:06 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:11 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:16 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:21 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:26 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:31 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:36 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:41 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:46 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:51 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:00:56 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:01 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:06 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:11 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:21 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:26 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:31 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:36 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:41 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello world","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:44 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello world","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:46 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:46 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:51 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:01:56 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:01 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:06 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:11 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:16 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:21 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:26 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:31 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Oct/2025:23:02:36 +0000] \"PUT /api/inngest HTTP/1.1\" 404 150 \"-\" \"Go-http-client/1.1\"","service":"acquisitions-api"}
